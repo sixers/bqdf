@@ -1,0 +1,13 @@
+pip
+bumpversion
+wheel
+watchdog
+flake8
+coverage
+Sphinx
+pytest
+pytest-runner
+
+pypika
+pyspark
+git+https://github.com/Khan/tinyquery.git --upgrade
